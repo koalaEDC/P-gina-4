@@ -14,10 +14,11 @@ main
     
 }
 
-footer{
+footer
+{
     background-color:rgb(235, 116, 77);
     
-    text-align: center
+    text-align: center;
 }
 
 h1
@@ -77,4 +78,18 @@ img
     margin-top:100px;
      
     
+}
+
+.containerHeader1
+{
+float: left;
+}
+.containerHeader2
+{
+      text-align: center;   
+}
+
+.containerHeader3
+{
+float: right;
 }
